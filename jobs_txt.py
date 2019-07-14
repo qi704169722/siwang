@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import os
 
 some_word = ('Jobs said:').strip()
 keep = ""
